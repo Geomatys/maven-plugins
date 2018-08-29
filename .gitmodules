@@ -1,0 +1,12 @@
+[submodule "maven-compiler-plugin"]
+	path = maven-compiler-plugin
+	url = https://github.com/apache/maven-compiler-plugin
+[submodule "maven-javadoc-plugin"]
+	path = maven-javadoc-plugin
+	url = https://github.com/apache/maven-javadoc-plugin
+[submodule "maven-jar-plugin"]
+	path = maven-jar-plugin
+	url = https://github.com/apache/maven-jar-plugin
+[submodule "maven-deploy-plugin"]
+	path = maven-deploy-plugin
+	url = https://github.com/apache/maven-deploy-plugin
